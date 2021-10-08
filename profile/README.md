@@ -22,7 +22,7 @@ Advanced topics being researched.
 
 ## How to subscribe.
 Subscription-based projects are Github based. Please sign up for a GitHub account before subscribing
-* Click the ```Sponsor``` button at the top of the page, and select the Ko-fi link.
+* Click the ```Sponsor``` button at the top of the page, and select the [Ko-fi](https://ko-fi.com/digitalreplica) link.
 * Select ```Memberships```, then ```Subscription-based Projects```.
 * For the email field, enter your github email.
 
