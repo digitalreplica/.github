@@ -1,12 +1,12 @@
-# Exploring the Digital Mind.
-**A Hacker's Guide to the Future.**
+# Exploring Digital Thought
+**A Hacker's Guide to the Future**
 
-DigitalReplica explores the concept of a digital mind, hacking together pieces using existing technologies.
+DigitalReplica explores the concept of digital thought by hacking together existing technologies.
 
-It is a text based approach. Like NetHack, or an emacs-based web browser, but modernized with APIs and cloud storage and compute.
+It is a text based approach, like NetHack or an emacs web browser, but modernized with APIs and cloud storage and compute.
 
-* [Danny Rappleyea](https://github.com/dannyrappleyea): Owner and lonely human of the DigitalReplica single-member-llc.
 * [Knowledge Repo](https://github.com/digitalreplica/knowledge): The DigitalReplica [git-knowledge](https://github.com/digitalreplica/git-knowledge) repository
+* [Danny Rappleyea](https://github.com/dannyrappleyea): Owner and lonely human of the DigitalReplica single-member-llc.
 
 # Public Projects
 Fundamentals of the DigitalReplica approach.
