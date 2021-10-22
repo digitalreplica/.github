@@ -32,4 +32,5 @@ Older articles on hacking, LLCs, and technology
 
 # Patronage
 If you find my work useful or inspiring, please consider a small one-time donation to say thank you, or a recurring donation to support future work.
+* [github.com/digitalreplica](https://github.com/sponsors/digitalreplica)
 * [ko-fi.com/digitalreplica](https://ko-fi.com/digitalreplica)
