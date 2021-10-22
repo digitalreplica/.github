@@ -1,7 +1,7 @@
 # Exploring Digital Thought
 **A Hacker's Guide to the Future**
 
-DigitalReplica explores digital thought, hacked together using existing technologies like git, markdown, and web UIs.
+DigitalReplica explores digital thought, hacking together existing technologies like git, markdown, and web UIs.
 
 It is a text based approach, like NetHack or an emacs web browser, but modernized with APIs and cloud storage and compute.
 
