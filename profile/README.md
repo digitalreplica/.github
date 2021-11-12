@@ -1,12 +1,9 @@
 # Exploring Digital Thought
 **A Hacker's Guide to the Future**
 
-DigitalReplica explores digital thought, hacking together existing technologies like git, markdown, and web UIs.
+DigitalReplica explores digital thought, hacking together existing technologies like git, markdown, and web UIs. It is a text based approach, like NetHack or an emacs web browser, but modernized with APIs and cloud storage and compute.
 
-It is a text based approach, like NetHack or an emacs web browser, but modernized with APIs and cloud storage and compute.
-
-* [Knowledge Repo](https://github.com/digitalreplica/knowledge): The DigitalReplica [git-knowledge](https://github.com/digitalreplica/git-knowledge) repository
-* [Danny Rappleyea](https://github.com/dannyrappleyea): Owner and lonely human of the DigitalReplica single-member-llc.
+I'm [Danny Rappleyea](https://github.com/dannyrappleyea), owner and lonely human of the DigitalReplica single-member LLC.
 
 # Public notes
 I keep my notes in git repositories. Here are my public notes.
@@ -22,9 +19,8 @@ Advanced topics being researched.
 
 ## How to subscribe.
 Subscription-based projects are Github based. Please sign up for a GitHub account before subscribing
-* Click the ```Sponsor``` button at the top of the page, and select the [Ko-fi](https://ko-fi.com/digitalreplica) link.
-* Select ```Memberships```, then ```Subscription-based Projects```.
-* For the email field, enter your github email.
+* Click the ```Sponsor``` button at the top of the page.
+* In the ```Monthly``` field, select the $10/mo tier.
 
 # Articles
 Older articles on hacking, LLCs, and technology
