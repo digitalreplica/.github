@@ -8,13 +8,13 @@ It is a text based approach, like NetHack or an emacs web browser, but modernize
 * [Knowledge Repo](https://github.com/digitalreplica/knowledge): The DigitalReplica [git-knowledge](https://github.com/digitalreplica/git-knowledge) repository
 * [Danny Rappleyea](https://github.com/dannyrappleyea): Owner and lonely human of the DigitalReplica single-member-llc.
 
-# Public Projects
-Fundamentals of the DigitalReplica approach.
-* [git-notes](https://github.com/digitalreplica/git-notes): Save notes into a git repository using markdown.
-* [git-knowledge](https://github.com/digitalreplica/git-knowledge): Separate notes into unique repositorities of knowledge, using git submodules
-to weave together different threads of thought.
-* one-dollar-like: Create a way for people to pay you $1 for work found useful or entertaining.
-* Single-member LLC: Create a legal structure to accept income.
+# Public notes
+I keep my notes in git repositories. Here are my public notes.
+* [digitalreplica/hacking](https://github.com/digitalreplica/hacking): I'm a penetration tester. Here are my notes.
+* [digitalreplica/technology](https://github.com/digitalreplica/technology): Internet and technology notes.
+* [digitalreplica/git-notes](https://github.com/digitalreplica/git-notes): How to use git repositories to take notes.
+* [digitalreplica/git-knowledge](https://github.com/digitalreplica/git-knowledge): Exploring how to link multiple notes repositories into a larger knowledge system.
+* [digitalreplica/single-member-llc](https://github.com/digitalreplica/single-member-llc): How to create a minimal, single-member LLC.
 
 # Subscription-based Projects
 Advanced topics being researched.
