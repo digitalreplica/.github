@@ -15,7 +15,7 @@ I keep my notes in git repositories. Here are my public notes.
 
 # Subscription-based Projects
 Advanced topics being researched.
-* fire-llc: Invest owner contributions and income into a financially self-sustaining, legally separate entity.
+* financial-independence: my financial plan for living without a full time salary
 
 ## How to subscribe.
 Subscription-based projects are Github based. Please sign up for a GitHub account before subscribing
